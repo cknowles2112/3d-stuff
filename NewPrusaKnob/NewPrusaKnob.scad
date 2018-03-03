@@ -17,11 +17,6 @@ difference() {
 		translate([0,8,0]) knurled_cyl(8,5,3,3,1,1,50);
 		translate([0,-8,0]) knurled_cyl(8,5,3,3,1,1,50);
 
-
-		translate([0,-8,7.5]) sphere(r=2,center=true);
-		translate([0,8,7.5]) sphere(r=2,center=true);
-		translate([8,0,7.5]) sphere(r=2,center=true);
-		translate([-8,0,7.5]) sphere(r=2,center=true);
 	}
 
 	union() {
@@ -37,3 +32,7 @@ difference() {
 	translate([0,0,8.5]) resize([14,14,4]) sphere(r=8,center=true);
 
 }
+translate([0,-8,7.5]) sphere(r=2,center=true);
+translate([0,8,7.5]) sphere(r=2,center=true);
+translate([8,0,7.5]) sphere(r=2,center=true);
+translate([-8,0,7.5]) sphere(r=2,center=true);
