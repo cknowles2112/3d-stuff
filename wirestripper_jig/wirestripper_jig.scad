@@ -11,9 +11,9 @@ resistor_wrap= 16;
 //The thickness of your wire stripper blade.  1/2 of overall thickness
 blade_thickness = 1.8;
 //total diameter of the wire
-wire_diameter = 2.1;
+wire_diameter = 2.3;
 
-jig_diameter = wire_diameter*4;
+jig_diameter = wire_diameter*5;
 
 //Base is the platform this is built on
 base_thickness = 4;
