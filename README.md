@@ -14,5 +14,6 @@ Directories:
   - This project uses a third party library, "threads" from http://dkprojects.net/openscad-threads/ 
 - NewPrusaKnob - a new knob for the Prusa i3 mk3.  
   - This project uses the third party library for knurling a cylinder: https://www.thingiverse.com/thing:9095
+- panelwrench - a wrench to tighten components that have soldered wires onto a panel.  
 - parametric\_peg - a module for creating a peg with cap, barb, and bearing space - created as a repair for a whirlpool fridge door.
 - wirestripper\_jig - a small gadget to make stripping wires to consistent lengths easy.  commented and parameterized for your modification
