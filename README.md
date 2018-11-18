@@ -12,6 +12,7 @@ Directories:
 - libraries - any openscad libraries I've setup
 - beadtray - a project for my wife, a 6 bowl beadtray with screw on lid
   - This project uses a third party library, "threads" from http://dkprojects.net/openscad-threads/ 
+- dishwasher_sign - double sided, magent loaded dishawsher clean/dirty sign
 - NewPrusaKnob - a new knob for the Prusa i3 mk3.  
   - This project uses the third party library for knurling a cylinder: https://www.thingiverse.com/thing:9095
 - panelwrench - a wrench to tighten components that have soldered wires onto a panel.  
