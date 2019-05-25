@@ -18,3 +18,4 @@ Directories:
 - panelwrench - a wrench to tighten components that have soldered wires onto a panel.  
 - parametric\_peg - a module for creating a peg with cap, barb, and bearing space - created as a repair for a whirlpool fridge door.
 - wirestripper\_jig - a small gadget to make stripping wires to consistent lengths easy.  commented and parameterized for your modification
+- wire\_marking\_beads - module for making markers intended to mark hobby electronics wire.  beads for simple colors, cylinders for letters
