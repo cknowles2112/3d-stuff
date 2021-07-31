@@ -20,3 +20,4 @@ Directories:
 - peg_stitch_counter - a module to make a pegboard stitch counter
 - wirestripper\_jig - a small gadget to make stripping wires to consistent lengths easy.  commented and parameterized for your modification
 - wire\_marking\_beads - module for making markers intended to mark hobby electronics wire.  beads for simple colors, cylinders for letters
+- aerogarden - project for accessories for an aerogarden - cap for blank slots.
